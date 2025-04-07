@@ -1,2 +1,2 @@
 # my-repo
-## hello my name is khalid im 21 yers old , i like to learn new infoemation about anything , now i want learn Github for my self and my semster.
+## Hi, I'm Khalid, 21 years old. I enjoy learning new things, and right now I'm focusing on learning GitHub—for both personal growth and my studies this semester.
